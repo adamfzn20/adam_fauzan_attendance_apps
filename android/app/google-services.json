@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85535538247",
+    "project_id": "attendance-app-adam",
+    "storage_bucket": "attendance-app-adam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85535538247:android:0bb5e142a5b8776a7d8562",
+        "android_client_info": {
+          "package_name": "com.example.adam_fauzan_attendance_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tP6KGG6nXkMBnrrCQnaBirFhBVGTZnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

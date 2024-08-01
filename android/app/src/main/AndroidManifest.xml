@@ -49,6 +49,18 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+         	<meta-data
+            android:name="com.google.firebase.database.FirebaseDatabase"
+            android:value="true" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="${applicationId}.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data android:name="com.google.android.geo.API_KEY"
+           android:value="YWRhbWF0dGVuZGFuY2VhcHBz"/>
     </application>
     <queries>
         <intent>
