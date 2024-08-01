@@ -11,4 +11,6 @@ const Map<String, String> id = {
 
   // Button
   "txt_button_ok": "Ok",
+
+  "txt_attendance": "Attendance"
 };
