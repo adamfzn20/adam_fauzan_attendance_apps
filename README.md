@@ -1,3 +1,8 @@
+# masih eror
+Saya ingin menyampaikan permintaan maaf karena program yang saya kirimkan masih terdapat error. Ini menjadi pembelajaran berharga bagi saya ke depannya, dan saya akan berusaha lebih baik lagi dalam memastikan kualitas kode yang saya buat.
+
+Terima kasih 
+
 # adam_fauzan_attendance_apps
 
 A new Flutter project.
